@@ -1,3 +1,11 @@
+Forked from GiovanniCasini
+
+Changes:
+- Writes list of all usernames to a file "notFollowers.txt" instead of printing them
+- Can run browser.py to open users in a new browser in increments of 10
+
+### Below is branched description
+
 YouTube Tutorial: https://www.youtube.com/watch?v=Z8tq_FzbbaA
 
 ### IG_unfollow
